@@ -71,7 +71,7 @@ export default function Home() {
       name: 'YRTools Graph', 
       desc: 'Roket telemetri analiz grafiği.', 
       icon: LineChart, 
-      url: 'https://yrtools.ayberkarslan.com' 
+      url: 'https://yrtgraph.ayberkarslan.com' 
     },
   ];
 
