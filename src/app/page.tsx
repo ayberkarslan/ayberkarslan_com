@@ -67,6 +67,12 @@ export default function Home() {
       icon: LineChart, 
       url: 'https://yrtgraph.ayberkarslan.com' 
     },
+       { 
+      id: 'yrtool-graph',
+      name: 'YRTools Graph ESP32 Version', 
+      icon: LineChart, 
+      url: 'https://yrtgraphesp32.ayberkarslan.com' 
+    },
   ];
 
   return (
